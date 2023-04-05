@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="9b9a2505b90221107f44222089e22f3a" extends="task" label="case" max_length="40" name="x_snc_pxs_snow_poc_case" type="collection"/>
+    <element db_object_id="9b9a2505b90221107f44222089e22f3a" extends="task" label="Aktivitet" max_length="40" name="x_snc_pxs_snow_poc_case" type="collection">
+        <element label="poc contact reason" max_length="100" name="poc_contact_reason" type="string"/>
+        <element label="poc problem desc" max_length="200" name="poc_problem_desc" type="string"/>
+    </element>
 </database>
