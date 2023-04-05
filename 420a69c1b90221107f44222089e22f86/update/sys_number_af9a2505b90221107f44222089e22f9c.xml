@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_snc_pxs_snow_poc_case">x_snc_pxs_snow_poc_case</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>CAS</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-05 08:30:42</sys_created_on>
+        <sys_id>af9a2505b90221107f44222089e22f9c</sys_id>
+        <sys_name>CAS</sys_name>
+        <sys_package display_value="pxs-snow-poc" source="x_snc_pxs_snow_poc">420a69c1b90221107f44222089e22f86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pxs-snow-poc">420a69c1b90221107f44222089e22f86</sys_scope>
+        <sys_update_name>sys_number_af9a2505b90221107f44222089e22f9c</sys_update_name>
+    </sys_number>
+</record_update>

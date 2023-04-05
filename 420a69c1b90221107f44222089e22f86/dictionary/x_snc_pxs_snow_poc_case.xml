@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9b9a2505b90221107f44222089e22f3a" extends="task" label="case" max_length="40" name="x_snc_pxs_snow_poc_case" type="collection"/>
+</database>
